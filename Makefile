@@ -2,7 +2,7 @@
 # **************************************************************
 # *                                                            *
 # * Author: sunbin (2024)                                      *
-# * URL: https://ftp.gnu.org/pub/gnu/global/				   		   *
+# * URL: https://ftp.gnu.org/pub/gnu/global/				   *
 # *                                                            *
 # * Copyright notice:                                          *
 # * Free use of this C++ Makefile template is permitted under  *
